@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ikoral.ikoral)
 
-I am a full-stack IT Proffessional (BackEnd - FrontEnd - TestAutomation - Cloud) and instructor. I love my family, coding, walking in the nature, speaking 😄, watching science || fantasy movies and travelling.
+I am a full-stack IT Proffessional (BackEnd - FrontEnd - TestAutomation - Cloud) and instructor. I love my family, coding, walking in the :herb: nature, speaking 😄, watching science || fantasy movies and travelling.
 
-I am always after being valuable and make difference no matter how big || small it is. I !like repeat myself.
+I am always after being valuable and make difference no matter how big || small it is.
+
+I <code>!like</code> repeat myself.
 
 ### Mentioning about me:
 - 🔭 I’m currently working on SOAP Web Service on ASP.NET environment.
@@ -34,6 +36,10 @@ I am always after being valuable and make difference no matter how big || small 
 ### :watch: I Spent My Time On:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+### :chart_with_upwards_trend: My GitHub:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikoral&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 
