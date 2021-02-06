@@ -23,7 +23,7 @@ I am always after being valuable and make difference no matter how big || small 
 
 I <code>!like</code> repeat myself.
 
-### Mentioning about me:
+### About me:
 - 🔭 I’m currently working on SOAP Web Service on ASP.NET environment.
 - 🌱 I’m currently learning Vue.Js and Azure Developer Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
@@ -31,7 +31,7 @@ I <code>!like</code> repeat myself.
 - 📫 How to reach me: [ilhan.koral@ttl.be](mailto:ilhan.koral@ttl.be?subject=[Github])
 - 😄 Title: ilhan is enough.
 
-#### My Wish to everyone: Please take care and stay safe :mask:
+#### My wish to everyone: take care and stay safe :mask:
 
 ### :watch: Weekly On GitHub:
 <!--START_SECTION:waka-->
