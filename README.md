@@ -24,6 +24,9 @@ I <code>!like</code> repeat myself.
 
 ### :watch: Weekly On GitHub:
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### :chart_with_upwards_trend: My GitHub:
