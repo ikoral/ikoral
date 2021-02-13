@@ -25,7 +25,11 @@ I <code>!like</code> repeat myself.
 ### :watch: Weekly On GitHub:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SQL          2 hrs 59 mins   █████████████████████░░░░   84.25 % 
+TypeScript   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+VB.NET       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+C#           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
