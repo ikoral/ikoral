@@ -25,11 +25,11 @@ I <code>!like</code> repeat myself.
 ### :watch: Weekly On GitHub:
 <!--START_SECTION:waka-->
 ```text
-SQL          2 hrs 59 mins   █████████████████████░░░░   84.25 % 
-TypeScript   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-VB.NET       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-C#           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+SQL          3 hrs 25 mins   ██████████████░░░░░░░░░░░   56.20 % 
+HTML         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
+TypeScript   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+PHP          24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+C#           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 <!--END_SECTION:waka-->
 
