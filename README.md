@@ -22,7 +22,7 @@ I <code>!like</code> repeat myself.
 
 #### My wish to everyone: take care and stay safe :mask:
 
-### :watch: Weekly On GitHub:
+### :watch: Weekly On Development:
 <!--START_SECTION:waka-->
 ```text
 SQL          3 hrs 25 mins   ██████████████░░░░░░░░░░░   56.20 % 
