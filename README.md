@@ -13,7 +13,7 @@ I am always after being valuable and making a difference no matter how big || sm
 I <code>!like</code> repeat myself.
 
 ### About me:
-- 🔭 I’m currently working on SOAP Web Service on ASP.NET environment and test tooling with Python.
+- 🔭 I’m currently working on Test Automation Frameworks based on Gherkin Feature.
 - 🔭 In my side projects, I'd love to play with Laravel, Vue.js and Tailwindcss.
 - 🌱 I’m currently learning Vue.Js and Azure Developer Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
