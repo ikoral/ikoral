@@ -26,11 +26,11 @@ I <code>!like</code> repeat myself.
 ### :watch: Weekly On Development:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 39 mins   █████████████░░░░░░░░░░░░   51.56 % 
-Gherkin      3 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-JSON         1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML         1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript   6 hrs 59 mins   ███████████░░░░░░░░░░░░░░   44.26 % 
+YAML         4 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.37 % 
+Gherkin      1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+JSON         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Other        58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 ```
 <!--END_SECTION:waka-->
 
