@@ -6,7 +6,7 @@
 
 ### Glad to see you here! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ikoral.ikoral)
 
-I am a full-stack IT Professional (BackEnd - FrontEnd - TestAutomation - Cloud) and instructor. I love my family, coding, walking in the :herb: nature, talking 😄, watching science || fantasy movies and travelling.
+I am a full-stack IT Professional (TestAutomation - BackEnd - FrontEnd - Cloud) and instructor. I love my family, coding, walking in the :herb: nature, talking 😄, watching science || fantasy movies and travelling.
 
 I am always after being valuable and making a difference no matter how big || small it is.
 
