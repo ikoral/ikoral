@@ -18,7 +18,7 @@ I <code>!like</code> repeat myself.
 - 🌱 I’m currently learning Contract API Testing with Pactum and Azure Developer Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
 - 💬 Ask me about Testing, Test Automation, T-SQL and Front End, I am happy to help.
-- 📫 How to reach me: [via LinkedIn](https://www.linkedin.com/in/ilhankoral/)
+- 📫 Reach me here: [via LinkedIn](https://www.linkedin.com/in/ilhankoral/)
 - 😄 Title: ilhan is enough.
 
 #### My wish to everyone: take care and stay safe :mask:
