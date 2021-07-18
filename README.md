@@ -17,7 +17,7 @@ I <code>!like</code> repeat myself.
 - 🔭 In my side projects, I'd love to play with Headless CMS, Vue.js and Tailwindcss.
 - 🌱 I’m currently learning Contract API Testing with Pactum and Azure Developer Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
-- 💬 Ask me about Testing, Automation and T-SQL, I am happy to help.
+- 💬 Ask me about Testing, Test Automation, T-SQL and Front End, I am happy to help.
 - 📫 How to reach me: [ilhan.koral@ttl.be](mailto:ilhan.koral@ttl.be?subject=[Github])
 - 😄 Title: ilhan is enough.
 
