@@ -14,7 +14,7 @@ I <code>!like</code> repeat myself.
 
 ### About me:
 - 🔭 I’m currently working on Test Automation Frameworks based on Cucumber, WebdriverIO and Selenium.
-- 🔭 In my side projects, I'd love to play with Vue.js and Tailwindcss.
+- 🔭 In my side projects, I'd love to play with Headless CMS, Vue.js and Tailwindcss.
 - 🌱 I’m currently learning Vue.Js and Azure Developer Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
 - 💬 Ask me about Testing, Automation and T-SQL, I am happy to help.
