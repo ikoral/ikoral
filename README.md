@@ -13,15 +13,13 @@ I am always after being valuable and making a difference no matter how big || sm
 I <code>!like</code> repeat myself.
 
 ### About me:
-- 🔭 I’m currently working on Test Automation Frameworks based on Cucumber, WebdriverIO and Selenium.
-- 🔭 In my side projects, I'd love to play with Headless CMS, Vue.js and Tailwindcss.
-- 🌱 I’m currently learning Contract API Testing with Pactum and Azure Developer Ecosystem.
+- 🔭 I’m currently working on Test Automation Frameworks based on Playwright and TS.
+- 🔭 In my side projects, I'd love to play with Kubernetes, CI/CD pipeline and Terraform.
+- 🌱 I’m currently learning Infrastructure as Code m and AWS Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
-- 💬 Ask me about Testing, Test Automation, T-SQL and Front End, I am happy to help.
+- 💬 Ask me about Testing, Test Automation, Test-Ops and Dev-Ops I am happy to help.
 - 📫 Reach me here: [via LinkedIn](https://www.linkedin.com/in/ilhankoral/)
 - 😄 Title: ilhan is enough.
-
-#### My wish to everyone: take care and stay safe :mask:
 
 ### :watch: Weekly On Development:
 <!--START_SECTION:waka-->
