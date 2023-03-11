@@ -15,7 +15,7 @@ I <code>!like</code> repeat myself.
 ### About me:
 - 🔭 I’m currently working on Test Automation Frameworks based on Playwright and TS.
 - 🔭 In my side projects, I'd love to play with Kubernetes, CI/CD pipeline and Terraform.
-- 🌱 I’m currently learning Infrastructure as Code m and AWS Ecosystem.
+- 🌱 I’m currently learning nfrastructure as Code (IaC) and AWS Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
 - 💬 Ask me about Testing, Test Automation, Test-Ops and Dev-Ops I am happy to help.
 - 📫 Reach me here: [via LinkedIn](https://www.linkedin.com/in/ilhankoral/)
