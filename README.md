@@ -6,18 +6,18 @@
 
 ### Glad to see you here! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ikoral.ikoral)
 
-I am an IT Professional (TestAutomation - FrontEnd - Cloud) and instructor. I love my family, coding, walking in the :herb: nature, talking 😄, watching science || fantasy movies and travelling.
+I am an IT Professional (TestAutomation - FrontEnd - Cloud) and instructor. I love my family, coding, walking in the :herb: nature, talking 😄, watching science || fantasy movies, and traveling.
 
 I am always after being valuable and making a difference no matter how big || small it is.
 
-I <code>!like</code> repeat myself.
+I <code>!like</code> repeat myself. 😉
 
 ### About me:
-- 🔭 I’m currently working on Test Automation Frameworks based on Playwright and TS.
-- 🔭 In my side projects, I'd love to play with Kubernetes, CI/CD pipeline and Terraform.
-- 🌱 I’m currently learning nfrastructure as Code (IaC) and AWS Ecosystem.
+- 🔭 Currently, I’m working on Test Automation Frameworks based on Playwright and TS.
+- 🔭 In my side projects, I'd love to play with Kubernetes, CI/CD pipeline.
+- 🌱 I’m currently learning infrastructure as Code (IaC) and AWS Ecosystem.
 - ⚡ Fun fact: Solving challenge in [HackerRank](https://www.hackerrank.com/ikoral)
-- 💬 Ask me about Testing, Test Automation, Test-Ops and Dev-Ops I am happy to help.
+- 💬 Ask me about Testing, Test Automation, Test-Ops, and Dev-Ops I am happy to help.
 - 📫 Reach me here: [via LinkedIn](https://www.linkedin.com/in/ilhankoral/)
 - 😄 Title: ilhan is enough.
 
