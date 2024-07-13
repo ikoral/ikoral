@@ -21,9 +21,6 @@ I <code>!like</code> repeat myself.
 - 📫 Reach me here: [via LinkedIn](https://www.linkedin.com/in/ilhankoral/)
 - 😄 Title: ilhan is enough.
 
-### :chart_with_upwards_trend: My GitHub:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikoral&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></span>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikoral&layout=compact)
 
 
